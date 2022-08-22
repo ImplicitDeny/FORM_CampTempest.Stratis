@@ -1,0 +1,17 @@
+class CfgFunctions
+{
+	class LM
+	{
+		class rebreather
+		{
+			class initRebreather {};
+			class simul {};
+			class breath {};
+			class rebreath {};
+			class getRate {};
+            class display {};
+			class updateView {};
+			class rebreathBug {};
+        };
+    };
+};
